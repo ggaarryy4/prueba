@@ -311,7 +311,7 @@ const preguntas = [
 {
   tipo: "rellenar",
   pregunta: "Señala cuál de estas premisas es verdadera y cuál falsa (a. La Bolsa de Rathke tiene un origen mesodérmico | b. Las dos partes de la hipófisis tienen un origen ectodérmico | c. El tálamo se relaciona con todos los sentidos menos con el olfato | d. El tálamo se relaciona con comportamientos afectivos | e. El hipotálamo tiene una gran influencia sobre el sistema nervioso parasimpático | f. La principal vía aferente del hipotálamo es el fórnix | g. La principal vía eferente del hipocampo es el fórnix | h. Los núcleos basales ayudan a mantener la postura | i. El área premotora es un área cortical primaria | j. El lóbulo piriforme conecta con la amígdala)",
-  respuesta: "aF bV cV dV eV fV gV hV iV jV"
+  respuesta: "aF bV cV dV eV fV gV hV iF jV"
 },
 
 /* 35 */
@@ -1890,3 +1890,4 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
