@@ -385,7 +385,7 @@ const preguntas = [
   tipo: "rellenar",
   pregunta: "Sistema nervioso autónomo (a. La rama comunicante blanca es preganglionar o postganglionar? | b. Por qué se llama “comunicante blanca”? | c. La rama comunicante gris es preganglionar o postganglionar? | d. Por qué se llama “comunicante gris”? | e. En el sistema parasimpático, las fibras preganglionares son largas o cortas? | f. Enumera los núcleos parasimpáticos correspondientes a determinados nervios craneales, indicando a qué nervio pertenece.)",
   respuesta:
-    "a Preganglionar; b Por mielina; c Postganglionar; d Sin mielina; e Largas; f III-ciliar, VII-mandibular, IX-otico inf, X-intramural"
+    "a Preganglionar; b Por mielina; c Postganglionar; d Sin mielina; e Largas; f III (Motor ocular comun): Núcleo de Edinger-Westphal -> Ganglio ciliar, VII (Facial): Núcleos salival rostral -> Ganglios pterigoplatino y mandibular, IX (Glosofaríngeo): Núcleo salival caudal -> Ganglio ótico, X(Vago) Núvleo motor dorsal del vago -> Ganglios intramurales (en las vísceras)"
 },
 
 /* 44 */
@@ -405,7 +405,7 @@ const preguntas = [
 {
   tipo: "rellenar",
   pregunta: "Corteza más antigua y su función de asociación",
-  respuesta: "Paleocórtex, asociado al olfato"
+  respuesta: "La Arquicorteza, se relaciona con el control de la vida, el instinto y el comportamiento"
 },
 
 /* 46 */
@@ -1890,5 +1890,6 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
