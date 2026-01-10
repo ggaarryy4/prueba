@@ -412,7 +412,7 @@ const preguntas = [
 {
   tipo: "rellenar",
   pregunta: "Relación entre amígdala y núcleo caudado",
-  respuesta: "Relación topográfica, no funcional directa"
+  respuesta: "Relación íntima ya que se altera en enfermedades en la que disminuye la cantidad de dopamina, como la enfermedad de Parkinson"
 },
 
 /* 47 */
@@ -1890,6 +1890,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
