@@ -1019,7 +1019,7 @@ d. Corteza motora, putamen`
 {
   tipo: "rellenar",
   pregunta: `Enumera las conexiones eferentes de la amígdala`,
-  respuesta: `Hipotálamo, núcleos del septo, tronco encefálico, núcleo accumbens`
+  respuesta: `Hipotalamo, hipocampo, claustro, nucleos del septo, distintas contezas, sobre todo asociativas`
 },
 
 /* 9 */
@@ -1898,6 +1898,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
