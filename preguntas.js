@@ -362,7 +362,7 @@ const preguntas = [
 {
   tipo: "rellenar",
   pregunta: "Señala cuál de estas premisas es verdadera y cuál falsa (a. Las interneuronas son neuronas excitatorias | b. Las respuestas de animal van en función del desarrollo del neopalio | c. Las principales células de proyección son las células piramidales | d. El área visual II se relaciona con la integración de impulsos visuales | e. El área olfatoria se localiza en los bulbos olfatorios | f. El área premotora es un área de proyección | g. La comisura rostral está compuesta por fibras corticocorticales | h. El genu del cuerpo calloso es la parte más caudal | i. El cíngulo es un haz de fibras de asociación largas | j. La corteza cingular tiene que ver con el sistema límbico)",
-  respuesta: "aF bV cV dV eF fV gV hF iV jV"
+  respuesta: "aF bV cV dV eF fF gV hF iV jV"
 },
 
 /* 41 */
@@ -1890,4 +1890,5 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
