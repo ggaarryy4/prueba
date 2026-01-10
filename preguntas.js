@@ -978,7 +978,7 @@ c. Nc. geniculado lateral
 d. Nc. caudado`,
   respuesta: `a. Globo pálido, sustancia negra
 b. Fórnix, corteza entorrinal
-c. Corteza visual primaria, radiaciones ópticas
+c. Corteza visual y colículo rostral
 d. Corteza motora, putamen`
 },
 
@@ -993,21 +993,26 @@ d. Corteza motora, putamen`
 {
   tipo: "rellenar",
   pregunta: `Enumera las conexiones eferentes del estriado`,
-  respuesta: `Globo pálido, sustancia negra, tálamo (vía indirecta y directa)`
+  respuesta: `Corteza cerebral, tálamo, subtalamo y tronco encefalico (sust. Negra)`
 },
 
 /* 6 */
 {
   tipo: "rellenar",
   pregunta: `Enumera las funciones de los núcleos basales en conjunto`,
-  respuesta: `Inicio y finalización del movimiento, automatización motora, control de la postura`
+  respuesta: `1. Avudan a la regulación del movimiento voluntario
+2. Participan en el aprendizaje de habilidades motoras
+3. Contribuyen a preparar el cuerpo previo un movimiento particular de las extremidades, mediante el control de los movimientos axiales de las cinturas y posición de las partes proximales de las extremidades
+4. Avudan a mantener la postura
+5. Modulan el inicio y final del movimiento
+6. Partcipan en funciones como la alerta o las emociones`
 },
 
 /* 7 */
 {
   tipo: "rellenar",
   pregunta: `Enumera las conexiones aferentes de la amígdala`,
-  respuesta: `Corteza sensorial, hipocampo, tálamo, bulbo olfatorio`
+  respuesta: `Cortezas asociativas, lobulo piriforme, talamo, hipotalamo, hipocampo, claustro, tronco encefalico`
 },
 
 /* 8 */
@@ -1893,6 +1898,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
