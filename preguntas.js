@@ -617,8 +617,8 @@ const preguntas = [
 
 /* 20 */
 {
-  tipo: "rellenar ( a) Son de proyección | b) Son corticocorticales | c) Hacen un recorrido largo | d) Hacen un recorrido corto)",
-  pregunta: "Señala las características principales de las fibras arcuatas",
+  tipo: "rellenar",
+  pregunta: "Señala las características principales de las fibras arcuatas ( a) Son de proyección | b) Son corticocorticales | c) Hacen un recorrido largo | d) Hacen un recorrido corto)",
   respuesta: "Son corticocorticales; Hacen un recorrido corto"
 },
 
@@ -637,8 +637,8 @@ const preguntas = [
 
 /* 22 */
 {
-  tipo: "rellenar ( a) Fimbria | b) Núcleo del nervio troclear | c) Cuerpos mamilares | d) Amígdala | e) Núcleo interpeduncular | f) Núcleo del nervio oculomotor | g) Lamina medular interna del tálamo | h) Capsula extrema | i) Fascículo cingular | j) Claustro)",
-  pregunta: "Indica a que vesícula encefálica pertenecen las siguientes estructuras",
+  tipo: "rellenar",
+  pregunta: "Indica a que vesícula encefálica pertenecen las siguientes estructuras  ( a) Fimbria | b) Núcleo del nervio troclear | c) Cuerpos mamilares | d) Amígdala | e) Núcleo interpeduncular | f) Núcleo del nervio oculomotor | g) Lamina medular interna del tálamo | h) Capsula extrema | i) Fascículo cingular | j) Claustro)",
   respuesta: "Fimbria -> telencéfalo; Núcleo del nervio troclear -> mesencéfalo; Cuerpos mamilares -> diencéfalo; Amígdala -> telencéfalo; Núcleo interpeduncular -> mesencéfalo; Núcleo del nervio oculomotor -> mesencéfalo; Lamina medular interna del tálamo -> diencéfalo; Cápsula extrema -> telencéfalo; Fascículo cingular -> telencéfalo; Claustro -> telencéfalo"
 },
 
@@ -646,7 +646,7 @@ const preguntas = [
 {
   tipo: "rellenar",
   pregunta: "El núcleo ventral lateral del tálamo ( a) Es un núcleo de relevo intertalámico | b) Proyecta a cortezas asociativas | c) Proyecta a cortezas primitivas | d) Integra actividad sensitiva y motora | e) Dejar en blanco)",
-  respuestas: "Proyecta a cortezas asociativas; Integra actividad sensitiva y motora"
+  respuesta: "Proyecta a cortezas asociativas; Integra actividad sensitiva y motora"
 },
 
 /* 24 */
@@ -1890,6 +1890,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
