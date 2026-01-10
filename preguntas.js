@@ -752,19 +752,22 @@ e. i. Caudado + putamen + núcleo accumbens
 {
   tipo: "rellenar",
   pregunta: `Enumera los núcleos que componen los núcleos talámicos clasificados desde un punto de vista funcional. Señala cuál es su función en cada caso y pon un ejemplo en cada uno de ellos`,
-  respuesta: `Núcleos específicos: relevo sensitivo (ej. geniculado lateral)
-Núcleos de asociación: integración de información (ej. pulvinar)
-Núcleos inespecíficos: modulación cortical difusa (ej. intralaminares)`
+  respuesta: `1. Núcleos talámicos sensitivos: f(x)-> transmitir info a áreas especificas de la corteza(Sistema de proyeccion cortical directo). NÚCLEO GENICULADO LATERAL (tambien el nucleo dorsomedial)
+2.  Núcleos talámicos de asociación: f(x)-> integran info y proyectan a áreas de asociación de la corteza. NÚCLEOS DEL GRUPO LATERAL.
+3. Núcleos talámicos no especificos: f(x)->forman parte del ARAS, proyectan a amplias zonas de la corteza (sistema de proyección cortical difuso). NÚCLEOS INTRALAMINARES(tambien n. Reticular talámico y n. de la linea media)`
 },
 
 /* 4 */
 {
   tipo: "rellenar",
   pregunta: `Enumera los núcleos que componen los núcleos talámicos clasificados desde un punto de vista topográfico. Señala cuál es su función en cada caso y pon un ejemplo en cada uno de ellos`,
-  respuesta: `Núcleos dorsales: asociación (ej. pulvinar)
-Núcleos ventrales: motor y sensitivo (ej. ventral lateral)
-Núcleos mediales: límbico (ej. dorsomedial)
-Núcleos intralaminares: activación cortical difusa (ej. centromediano)`
+  respuesta: `1. Grupo talámico rostral: sistema límbico.
+2. Grupo talámico lateral: integradores de distintos impulsos. Núcleo pulvinar y núcleo ventral-lateral.
+3. Grupo talámico caudal: núcleo geniculado lateral(vias opticas) y nucleo geniculado medial(vias auditivas)
+4. Grupo talámico medial: limbico(consolidación memoria y comportamiento emocional) Núcleo dorsomedial.
+5. Grupo de núcleos intralaminares: ARAS.
+6. Grupo de núcleos de la linea media: sistema limbico
+7. Nucleo reticular talamico: controla actividad de los distintos núcleos talamicos. Actua como filtro de información. Modula actividad talamocortical y corticotalamica`
 },
 
 /* 5 */
@@ -1890,6 +1893,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
