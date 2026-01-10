@@ -583,7 +583,7 @@ const preguntas = [
 /* 16 */
 {
   tipo: "rellenar",
-  pregunta: "Indica que frases son correctas",
+  pregunta: "Indica que frases son correctas ( a)La columna branquimotora contiene núcleos cuyos axones inervan musculo estriado | b) La columna EVG posee neuronas preganglionares | c) El componente ASE solo está presente en los pares craneales I y II | d) Las estrías acústicas se forman desde los núcleos vestibulare)",
   respuesta: "La columna branquimotora contiene núcleos cuyos axones inervan músculo estriado; La columna EVG posee neuronas preganglionares"
 },
 
@@ -1890,6 +1890,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
