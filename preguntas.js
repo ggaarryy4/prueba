@@ -774,7 +774,7 @@ e. i. Caudado + putamen + núcleo accumbens
 {
   tipo: "rellenar",
   pregunta: `Qué estructuras consideras dentro del circuito de Papez?`,
-  respuesta: `Hipocampo, fórnix, cuerpos mamilares, tálamo anterior, giro cingulado, corteza parahipocampal`
+  respuesta: `Corteza cingular, Corteza entorrinal, Hipocampo, Cuerpos mamilares, Tálamo (nc.rostrales), Fórnix, Haz mamilotalámico`
 },
 
 /* 6 */
@@ -1893,6 +1893,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
