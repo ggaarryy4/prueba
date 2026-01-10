@@ -1120,10 +1120,10 @@ a. La función del sistema simpático
 b. La función del área visual II
 c. Con qué sistema relacionarías la corteza prefrontal
 d. Qué efecto produce la destrucción del área somática I`,
-  respuesta: `a. Preparación para la acción, estrés y emergencia
-b. Procesamiento visual avanzado
-c. Sistema límbico
-d. Pérdida de sensibilidad somática`
+  respuesta: `a. Preparación del cuerpo para situaciones de emergencia
+b. Integración y elaboración de impulsos visuales
+c. Corteza límbica
+d. Anestesia de la parte contralateral del cuerpo y dismetria`
 },
 
 /* 18 */
@@ -1898,6 +1898,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
