@@ -1229,11 +1229,11 @@ b. Dónde se ubican
 c. Qué función tiene cada una de ellas
 d. Qué efecto tiene su destrucción
 e. Con qué sistema se relaciona el área cingular?`,
-  respuesta: `a. Al menos 2 principales: V1 y V2
-b. V1 en el lóbulo occipital, V2 adyacente a V1
-c. V1: percepción visual básica, V2: procesamiento visual avanzado
-d. V1: ceguera cortical, V2: alteraciones de percepción visual
-e. Sistema límbico y de integración multimodal`
+  respuesta: `a. Area visual I y area visual II
+b. Parte poserior del giro marginal y lóbulo occipital
+c. Nociones de profundidad, orientación, reconociemiento de normas e integración y elaboración de impulsos visuales
+d. Ceguera completa y alteraciones diversas (agnosia visual)
+e. Sistema límbico`
 },
 
 /* 4 */
@@ -1245,11 +1245,11 @@ b. Dónde se ubican
 c. Qué función tiene cada una de ellas
 d. Qué efecto tiene su destrucción
 e. Con qué otro nombre se conoce a las áreas prefrontal y cingular?`,
-  respuesta: `a. Al menos 2 principales: A1 y A2
-b. Lóbulo temporal
-c. A1: percepción auditiva básica, A2: procesamiento auditivo complejo
-d. A1: pérdida de percepción auditiva, A2: dificultades en reconocimiento de sonidos
-e. Áreas asociativas`
+  respuesta: `a. área auditiva I, área auditiva II y área auditiva III
+b. Porción media, posterior y rostral del giro ectosilvio
+c. Recibe totalidad fibras acusticas del cuerpo geniculado del lado opuesto, no claro, integrar estimulos auditivos con los de otra naturaleza 
+d. Pérdida de casi toda audición 
+e. Áreas de asociación`
 },
 
 /* 5 */
@@ -1898,6 +1898,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
