@@ -840,16 +840,16 @@ g. Embriológicamente, la Bolsa de Rathke es un derivado……….
 h. El paleocórtex integra principalmente estímulos de tipo……….
 i. Los ganglios paravertebrales son propios del sistema……….. 
 j. Las fibras de asociación conectan……………………..`,
-  respuesta: `a. Núcleos olfatorios anteriores
+  respuesta: `a. Los dos lóbulos temporales
 b. Comisural
-c. Anterior
-d. Hipocampo izquierdo y derecho
+c. Rostrales
+d. Los dos hipocampos, ventralmente al cuerpo calloso
 e. Fórnix
 f. Hipocampo con cuerpos mamilares
 g. Ectodérmico
 h. Olfatorios
-i. Simpático
-j. Diferentes áreas corticales entre sí`
+i. Nervioso autonomo simpático
+j. Diferentes núcleos entre sí`
 },
 
 /* 10 */
@@ -863,8 +863,8 @@ d. Cómo se denominan los ganglios correspondientes a la parte cervical del sist
 e. En qué sistema situarías el ganglio celiaco?. Es previsceral o intramural?.`,
   respuesta: `a. Ciliar; parasimpático
 b. Otico; parasimpático
-c. Nervio mandibular (V3)
-d. Ganglios cervicales (Simpático)
+c. Nervio facial (VII)
+d. Ganglio cervical craneal, medio y caudal
 e. Simpático; previsceral`
 },
 
@@ -886,7 +886,7 @@ e. Simpático; previsceral`
 {
   tipo: "rellenar",
   pregunta: `Cuál es la principal función del ARAS (Sistema Reticular Activador Ascendente), y qué estructuras se consideran formando parte del mismo`,
-  respuesta: `Mantener el nivel de alerta y vigilia; formaciones reticulares del bulbo, protuberancia y mesencéfalo`
+  respuesta: `Formación reticular, sust. Negra, parte de los núcleos en el tegmento mesencefalico, nucleos intralaminares y reticular del talamo e hipotalamo. Influye wn funcionamiento cerebro y sist endocrino, regulando si conducta, favoreciento relajacion y bienestar. Paso de relajacion a alerta maxima, ciclo sueño/vigilia, mantenimiento conciencia y consciencia, reconoce estado de animo`
 },
 
 /* 14 */
@@ -1893,6 +1893,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
