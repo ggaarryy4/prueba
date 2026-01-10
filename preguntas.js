@@ -745,7 +745,7 @@ c. Relevo y procesamiento de la información sensitiva y motora
 d. Hipotálamo caudal (región mamilar)
 e. i. Caudado + putamen + núcleo accumbens
    ii. Caudado + putamen
-   iii. Núcleo accumbens`
+   iii. Globo palido`
 },
 
 /* 3 */
@@ -1890,6 +1890,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
