@@ -1260,21 +1260,21 @@ a. Somática I
 b. Somática II
 c. Visual I
 d. Visual II
-e. Gustativa
+e. Gustativa ||
 Indica de dónde procede la información que llega a las siguientes áreas:
 f. Somática I
 g. Visual I
 h. Auditiva I
 i. Somática II`,
-  respuesta: `a. Pérdida de sensibilidad somática
-b. Alteración de percepción sensorial compleja
-c. Ceguera cortical
-d. Defectos en integración visual
-e. Pérdida de percepción gustativa
-f. Núcleos talámicos específicos
-g. Núcleo geniculado lateral
-h. Núcleo geniculado medial
-i. Combinación de V1 y somatosensorial primaria`
+  respuesta: `A. Anestesia parte contralateral cuerpo y dismetria
+B. Sintomatología parecida en todo el cuerpo y en las cuatro extremidades
+C. Ceguera completa
+D. Agnosia visual incapacidad deteccion color... Alteraciones diversas
+E. Alteración umbral de repulsión para algunos estimulos gustativos
+F. Sensibilidad del lado contralateral del cuerpo
+G. Núcleo geniculado lateral
+H. Cuerpo geniculado medial
+I. Impulsos procedentes de ambos lados del cuerpo`
 },
 
 /* 6 */
@@ -1289,9 +1289,13 @@ i. Combinación de V1 y somatosensorial primaria`
 {
   tipo: "rellenar",
   pregunta: `Haz un esquema de las fibras que componen la sustancia blanca encefálica`,
-  respuesta: `Fibras de proyección: conectan corteza con núcleos subcorticales
-Fibras comisurales: conectan hemisferios
-Fibras de asociación: conectan áreas dentro del mismo hemisferio (cortas y largas)`
+  respuesta: `FIBRAS CORTICOCORTICALES O DE ASOCIACIÓN
+i. CORTAS
+ii. LARGAS
+b. FIBRAS COMISURALES
+i. CUERPO CALLOSO ii. COMISURA ROSTRAL iii. COMISURA DEL FÓRNIX (Comisura del Hipocampo)
+c. FIBRAS DE PROYECCIÓN
+d. CÁPSULA INTERNA (+ CUERPO CALLOSO=CORONA RADIADA) b. FÓRNIX`
 },
 
 /* 8 */
@@ -1303,10 +1307,10 @@ b. Qué es una fibra corticocortical de asociación larga
 c. Qué es una fibra comisural
 d. Qué es una fibra de proyección
 e. Pon un ejemplo de cada una de ellas`,
-  respuesta: `a. Conecta áreas vecinas del mismo hemisferio; ej: fibras arcuatas
-b. Conecta áreas distantes del mismo hemisferio; ej: fascículo longitudinal superior
-c. Conecta hemisferios; ej: cuerpo calloso
-d. Conecta corteza con núcleos subcorticales; ej: cápsula interna`
+  respuesta: `A. Conecta áreas corticales muy proximas. FIBRAS ARCUATAS
+B. Conecta áreas corticales mas distantes. CINGULO
+C. Establecen conexión entre áreas homólogas. CUERPO CALLOSO, COMISURA ROSTRAL Y DEL FORNIX
+D. Se originan o terminan en la corteza cerebral, su otro extremo puede encontrarse en centros inferiores, son aferentes y eferentes. CAPSULA INTERNA Y FORNIX`
 },
 
 /* 9 */
@@ -1898,6 +1902,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
