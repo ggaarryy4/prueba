@@ -517,7 +517,7 @@ const preguntas = [
 /* 8 */
 {
   tipo: "rellenar",
-  pregunta: "Asocia el tipo de sensibilidad con la vía que la conduce ( a) Propiocepción inconsciente caudal a C8 b) Propiocepción consciente c) Propiocepción inconsciente craneal a C8 d) Sensibilidad protopática y nociceptiva  tracto espinotalámico)",
+  pregunta: "Asocia el tipo de sensibilidad con la vía que la conduce ( a) Propiocepción inconsciente caudal a C8 b) Propiocepción consciente c) Propiocepción inconsciente craneal a C8 d) Sensibilidad protopática y nociceptiva)",
   respuesta: "Propiocepción inconsciente caudal a C8 -> tracto espinocerebeloso; Propiocepción consciente -> Fascículos gracilis y cuneatus; Propiocepción inconsciente craneal a C8 -> tracto espinocuneocerebeloso; Sensibilidad protopática y nociceptiva -> tracto espinotalámico"
 },
 
@@ -1902,6 +1902,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
