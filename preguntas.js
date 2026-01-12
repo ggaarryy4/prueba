@@ -986,14 +986,14 @@ d. Corteza motora, putamen`
 {
   tipo: "rellenar",
   pregunta: `Enumera las conexiones aferentes del estriado`,
-  respuesta: `Corteza cerebral, tálamo, sustancia negra, complejo amigdaloide`
+  respuesta: `Corteza cerebral, tálamo, subtalamo y tronco encefalico (sust. Negra)`
 },
 
 /* 5 */
 {
   tipo: "rellenar",
   pregunta: `Enumera las conexiones eferentes del estriado`,
-  respuesta: `Corteza cerebral, tálamo, subtalamo y tronco encefalico (sust. Negra)`
+  respuesta: `Globo pálido, sustancia negra, tálamo (vía indirecta y directa)`
 },
 
 /* 6 */
@@ -1902,6 +1902,7 @@ b. Hipotálamo, corteza cingular, nc. septales, tálamo, tronco encefálico`
 }
 
 ];
+
 
 
 
