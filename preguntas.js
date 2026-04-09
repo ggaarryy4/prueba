@@ -152,6 +152,149 @@ const preguntas = [
     "Rotadores largos: apófisis espinosas; Recto dorsal mayor: occipital; Escaleno medio: costillas; Transverso del tórax: cartílagos costales"
 }
 
+  /* 21 */
+{
+  tipo: "rellenar",
+  pregunta: "Empareja cada arteria con la arteria principal del miembro torácico de la que proceden",
+  respuesta:
+    "Bicipital: braquial; Braquial profunda: braquial; Torácica externa: axilar; Radial: braquial; Subescapular: axilar; Circunfleja humeral craneal: axilar; Interósea común: ulnar"
+},
+
+/* 22 */
+{
+  tipo: "rellenar",
+  pregunta: "Marca las sentencias verdaderas",
+  respuesta:
+    "Trapecio y gran dorsal son extrínsecos y superficiales; Músculos craneales del brazo flexores del codo e inervados por musculocutáneo; Extensor cubital del carpo es flexor del carpo"
+},
+
+/* 23 */
+{
+  tipo: "rellenar",
+  pregunta: "Marca las sentencias verdaderas",
+  respuesta:
+    "Escudo distal y bolsa podotroclear facilitan deslizamiento; Ligamento suspensor = músculo interóseo evita hiperextensión; Subescapular e infraespinoso actúan como ligamentos colaterales"
+},
+
+/* 24 */
+{
+  tipo: "rellenar",
+  pregunta: "Empareja el nervio que inerva a los siguientes músculos del miembro torácico",
+  respuesta:
+    "Craneolateral antebrazo: radial; Caudal brazo: radial; Pronadores: mediano; Craneal brazo: musculocutáneo"
+},
+
+/* 25 */
+{
+  tipo: "rellenar",
+  pregunta: "Marca las sentencias verdaderas",
+  respuesta:
+    "Flexores del carpo y dedos inervados por mediano/cubital con origen en epicóndilo medial; Unión miembro-tronco = sinsarcosis"
+},
+
+/* 26 */
+{
+  tipo: "rellenar",
+  pregunta: "Empareja las articulaciones con sus superficies articulares",
+  respuesta:
+    "Metacarpofalangiana: metacarpiano + falange proximal + sesamoideos; Interfalangiana proximal: falange proximal + media; Antebraquiocarpiana: radio + carpo proximal; Codo: húmero + radio + cúbito; Hombro: escápula + húmero"
+},
+
+/* 27 */
+{
+  tipo: "rellenar",
+  pregunta: "Empareja los músculos con su origen o inserción",
+  respuesta:
+    "Radial del carpo (ins): metacarpianos; Flexor cubital del carpo (ins): hueso accesorio; Trapecio cervical (org): rafe medio del cuello; Subescapular (org): fosa subescapular"
+},
+
+/* 28 */
+{
+  tipo: "rellenar",
+  pregunta: "Empareja los músculos con su función",
+  respuesta:
+    "Deltoides: flexor del hombro; Flexor radial del carpo: flexor del carpo; Extensor digital común: extensor de dedos; Pectorales superficiales: aducción; Tríceps braquial: extensor del codo"
+},
+
+/* 29 */
+{
+  tipo: "rellenar",
+  pregunta: "Clasifica las articulaciones según su tipo de movimiento",
+  respuesta:
+    "Intercarpianas: planas; Escápulo-humeral: enartrosis; Interfalangiana proximal: gínglimo; Codo: gínglimo; Radiocubital: trocoide"
+},
+
+/* 30 */
+{
+  tipo: "rellenar",
+  pregunta: "Marca las sentencias correctas en relación con la articulación del carpo",
+  respuesta:
+    "Formada por varias articulaciones (antebraquiocarpiana, mediocarpiana, carpometacarpiana, intercarpianas y hueso accesorio)"
+},
+
+/* 31 */
+{
+  tipo: "rellenar",
+  pregunta: "Escribe el origen de los siguientes músculos del miembro torácico",
+  respuesta:
+    "Gran dorsal: fascia toracolumbar; Supraespinoso: fosa supraespinosa; Bíceps braquial: tubérculo supraglenoideo; Flexor radial del carpo: epicóndilo medial"
+},
+
+/* 32 */
+{
+  tipo: "rellenar",
+  pregunta: "Marca las sentencias correctas en relación con la articulación metacarpofalangiana del caballo",
+  respuesta:
+    "Ligamento palmar forma escudo proximal; Receso palmar amplio y puncionable"
+},
+
+/* 33 */
+{
+  tipo: "rellenar",
+  pregunta: "Marca las sentencias verdaderas",
+  respuesta:
+    "Vena cefálica principal superficial y desemboca en yugular externa; Plexo braquial: C6-T2"
+},
+
+/* 34 */
+{
+  tipo: "rellenar",
+  pregunta: "Marca las sentencias verdaderas",
+  respuesta:
+    "Tríceps braquial tiene cuatro cabezas en carnívoros insertadas en olécranon"
+},
+
+/* 35 */
+{
+  tipo: "rellenar",
+  pregunta: "Empareja cada área de inervación con el nervio correspondiente",
+  respuesta:
+    "Subescapular: nervio subescapular; Gran dorsal: toracodorsal; Grupo extensores/tríceps: radial; Redondos y deltoides: axilar; Supra e infraespinoso: supraescapular"
+},
+
+/* 36 */
+{
+  tipo: "rellenar",
+  pregunta: "Clasifica las articulaciones según número de huesos, morfología y movimiento",
+  respuesta:
+    "Metacarpofalangiana: compuesta gínglimo; Codo: compuesta gínglimo; Radiocubital: simple trocoide; Escápulo-humeral: simple enartrosis; Carpo: compuesta condílea"
+},
+
+/* 37 */
+{
+  tipo: "rellenar",
+  pregunta: "Escribe la inserción de los siguientes músculos",
+  respuesta:
+    "Trapecio: espina de la escápula; Deltoides: tuberosidad deltoidea; Infraespinoso: tubérculo mayor; Flexor digital profundo: falange distal"
+},
+
+/* 38 */
+{
+  tipo: "rellenar",
+  pregunta: "Empareja cada sentencia con un músculo",
+  respuesta:
+    "Flexor carpo + nervio cubital: flexor cubital del carpo; Fijador escápula + accesorio: trapecio; Craneal brazo + musculocutáneo: bíceps braquial; Flexor carpo + radial: extensor cubital del carpo"
+}
   
 ];
 
