@@ -1549,6 +1549,146 @@ const preguntas = [
   tipo: "rellenar",
   pregunta: "Indica cuáles son las respuestas verdaderas: - El extremo caudal de la escápula llega casi hasta el ilion. - El cinturón torácico lo forman la escapula y la fúrcula derecha e izquierda. - La cavidad glenoidea está formada por la escapula, el coracoides y la clavícula. - La cavidad glenoidea está formada por la escapula y el coracoides.",
   respuesta: "El extremo caudal de la escápula llega casi hasta el ilion; La cavidad glenoidea está formada por la escapula y el coracoides"
+},
+
+
+  // PARCIAL MIEMBRO PELVIANO
+
+/* 1 */
+{
+  tipo: "test",
+  pregunta: "¿Cómo se llama el ligamento que une los extremos craneales de los meniscos en los carnívoros?",
+  opciones: [
+    "Ligamento transverso caudal",
+    "Ligamento transverso craneal",
+    "Ligamento meniscofemoral",
+    "Ligamento transverso de la rodilla"
+  ],
+  correcta: 3
+},
+
+/* 2 */
+{
+  tipo: "rellenar",
+  pregunta: "El nervio ciático da lugar a los nervios: - Femoral. - Glúteo craneal. - Circunflejo femoral lateral. - Tibial. - Peroneo común. - Safeno.",
+  respuesta: "Tibial; Peroneo común"
+},
+
+/* 3 */
+{
+  tipo: "rellenar",
+  pregunta: "Dime las estructuras que se encuentran en el hueco poplíteo: - Linfonódulo poplíteo. - Vasos femorales caudales distales. - Vena safena lateral. - Arteria tibial. - Vena safena medial. - Arteria safena.",
+  respuesta: "Linfonódulo poplíteo; Vasos femorales caudales distales; Vena safena lateral"
+},
+
+/* 4 */
+{
+  tipo: "rellenar",
+  pregunta: "Los siguientes músculos están inervados por: Bíceps femoral, Sartorio, Tensor de la fascia lata, Pectíneo. Opciones: Nervio ciático, Nervio tibial, Nervio femoral, Nervio glúteo caudal, Nervio peroneo, Nervio glúteo craneal, Nervio obturador",
+  respuesta: "Bíceps femoral: nervio ciático; Sartorio: nervio femoral; Tensor de la fascia lata: nervio glúteo craneal; Pectíneo: nervio obturador"
+},
+
+/* 5 */
+{
+  tipo: "rellenar",
+  pregunta: "Relaciona estas estructuras con su articulación: Meniscos, Ligamento plantar largo, Ligamento púbico craneal, Ligamento de la cabeza del fémur",
+  respuesta: "Meniscos: articulación de la rodilla; Ligamento plantar largo: articulación tarsometatarsiana/del tarso; Ligamento púbico craneal: articulación púbica/sínfisis púbica; Ligamento de la cabeza del fémur: articulación coxofemoral/de la cadera"
+},
+
+/* 6 */
+{
+  tipo: "rellenar",
+  pregunta: "De estos músculos, ¿cuáles NO están inervados por el nervio ciático?: - Cuádriceps femoral. - Abductor caudal de la pierna. - Bíceps femoral. - Tensor de la fascia lata. - Cuadrado femoral. - Glúteo profundo.",
+  respuesta: "Cuádriceps femoral; Tensor de la fascia lata"
+},
+
+/* 7 */
+{
+  tipo: "rellenar",
+  pregunta: "¿Qué ligamentos forman parte de la articulación femororrotuliana en los carnívoros?: - Ligamento rotuliano medial. - Ligamentos colaterales medial y lateral. - Ligamentos femororrotulianos lateral y medial. - Ligamento rotuliano intermedio. - Ligamento rotuliano lateral. - Ligamentos cruzados.",
+  respuesta: "Ligamento rotuliano medial; Ligamentos femororrotulianos lateral y medial; Ligamento rotuliano intermedio; Ligamento rotuliano lateral"
+},
+
+/* 8 */
+{
+  tipo: "test",
+  pregunta: "¿Qué vena superficial es la más importante del miembro pelviano?",
+  opciones: [
+    "Vena safena medial",
+    "Vena poplítea",
+    "Vena femoral",
+    "Vena glútea caudal",
+    "Vena safena lateral"
+  ],
+  correcta: 4
+},
+
+/* 9 */
+{
+  tipo: "rellenar",
+  pregunta: "Relaciona los siguientes músculos con su origen: Glúteo medio, Semitendinoso, Gracilis, Tensor de la fascia lata. Opciones: Cara glútea del ilion, Tuberosidad coxal, Tuberosidad sacra, Tuberosidad isquiática, Sínfisis pélvica, Eminencia iliopúbica",
+  respuesta: "Glúteo medio: cara glútea del ilion; Semitendinoso: tuberosidad isquiática; Gracilis: sínfisis pélvica; Tensor de la fascia lata: tuberosidad coxal"
+},
+
+/* 10 */
+{
+  tipo: "test",
+  pregunta: "¿Qué arteria es el principal vaso que se distribuye por el miembro pelviano?",
+  opciones: [
+    "Arteria glútea caudal",
+    "Arteria circunfleja femoral lateral",
+    "Arteria ilíaca interna",
+    "Arteria femoral",
+    "Arteria ilíaca externa"
+  ],
+  correcta: 4
+},
+
+/* 11 */
+{
+  tipo: "rellenar",
+  pregunta: "Relaciona los siguientes músculos con sus inserciones: Gastrocnemios, Iliopsoas, Glúteo profundo, Pectíneo. Opciones: Trocánter menor, Cara áspera del fémur, Trocánter mayor, Tuberosidad del calcáneo, Cóndilo medial de la tibia",
+  respuesta: "Gastrocnemios: tuberosidad del calcáneo; Iliopsoas: trocánter menor; Glúteo profundo: trocánter mayor; Pectíneo: cara áspera del fémur"
+},
+
+/* 12 */
+{
+  tipo: "rellenar",
+  pregunta: "Inserciones del músculo bíceps femoral: - Tendón calcáneo común. - Rótula. - Cresta ilíaca. - Fascia lata. - Ligamento rotuliano. - Fosa trocantérica del fémur.",
+  respuesta: "Tendón calcáneo común; Fascia lata; Rótula"
+},
+
+/* 13 */
+{
+  tipo: "test",
+  pregunta: "¿Qué función NO tiene el músculo bíceps femoral?",
+  opciones: [
+    "Extensor de la rodilla",
+    "Abductor del miembro",
+    "Flexor de la rodilla",
+    "Flexor del tarso"
+  ],
+  correcta: 0
+},
+
+/* 14 */
+{
+  tipo: "rellenar",
+  pregunta: "De estos músculos, ¿cuáles forman parte del tendón calcáneo común?: - Semitendinoso. - Bíceps femoral. - Vasto lateral del cuádriceps. - Flexor digital lateral del cuádriceps. - Tensor de la fascia lata. - Flexor digital profundo. - Sartorio. - Gracilis.",
+  respuesta: "Semitendinoso; Bíceps femoral; Flexor digital profundo; Gracilis"
+},
+
+/* 15 */
+{
+  tipo: "test",
+  pregunta: "¿Qué estructura/músculo NO forma parte de los límites del canal femoral?",
+  opciones: [
+    "Músculo sartorio",
+    "Músculo aductor",
+    "Lámina femoral",
+    "Músculo pectíneo"
+  ],
+  correcta: 2
 }
 
   
