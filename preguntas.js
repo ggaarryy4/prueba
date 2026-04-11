@@ -461,7 +461,7 @@ const preguntas = [
   tipo: "rellenar",
   pregunta: "Marca las sentencias correctas en relación con la articulación del carpo ( Su conjunto constituye una articulación sinovial compuesta condílea (fundamentalmente en carnívoros), donde la articulación con más movimiento es la articulación carpometacarpiana. ; En la articulación antebraquiocarpiana del caballo NO existe ligamento radiocarpiano dorsal. ; Su conjunto está formado por varias articulaciones: la articulación antebraquiocarpiana, la articulación mediocarpiana, la articulación carpometacarpiana, las articulaciones intercarpianas y la articulación del hueso accesorio del carpo. ; El canal del carpo está delimitado por la cara medial del hueso accesorio, la fila proximal de los huesos del carpo y el retináculo flexor. )",
   respuesta:
-    "Formada por varias articulaciones (antebraquiocarpiana, mediocarpiana, carpometacarpiana, intercarpianas y hueso accesorio)"
+    "Formada por varias articulaciones (antebraquiocarpiana, mediocarpiana, carpometacarpiana, intercarpianas y hueso accesorio) -  En la articulación antebraquiocarpiana del caballo NO existe ligamento radiocarpiano dorsal. "
 },
 
 /* 31 */
