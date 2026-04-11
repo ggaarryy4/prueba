@@ -97,7 +97,7 @@ const preguntas = [
 
 /* 9 */
 {
-  tipo: "test",
+  tipo: "rellenar",
   pregunta: "El riñón de las aves NO se relaciona cranealmente con: (gonadas, glandulas adrenales, corazón, pulmones)",
   respuesta: "Gónadas, corazón"
 },
