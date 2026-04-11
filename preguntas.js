@@ -1189,8 +1189,369 @@ const preguntas = [
   tipo: "rellenar",
   pregunta: "Empareja el músculo con su función (Músculos gastrocnemios, músculo glúteo medio, músculo cuádriceps femoral, músculo poplíteo) opt: Extensor de la cadera, flexor del tarso, flexor de la cadera, extensor del tarso, flexor de la rodilla, extensor de la rodilla",
   respuesta: "Gastrocnemios: extensor del tarso; Glúteo medio: extensor de la cadera; Cuádriceps femoral: extensor de la rodilla; Poplíteo: flexor de la rodilla"
+},
+
+  //mas aves
+
+  // PARCIAL AVES
+
+/* 1 */
+{
+  tipo: "test",
+  pregunta: "La glándula uropigial se localiza:",
+  opciones: [
+    "Dorsalmente al pigóstilo, es bilobulada",
+    "Bajo la piel, dorsal al pigóstilo, al final del raquis",
+    "Ventralmente al pigóstilo, es bilobulada",
+    "Bajo la piel, ventral al pigóstilo, al final del raquis"
+  ],
+  correcta: 0
+},
+
+/* 2 */
+{
+  tipo: "rellenar",
+  pregunta: "Relacione cada porción del ojo con la estructura que corresponda: Aparato lagrimal, Túnica fibrosa, Retina, Coroides",
+  respuesta: "Aparato lagrimal: ángulo lateral del ojo adherida al borde de la órbita; Túnica fibrosa: córnea, esclerótica; Retina: área central redonda; Coroides: túnica vasculosa"
+},
+
+/* 3 */
+{
+  tipo: "rellenar",
+  pregunta: "Relaciona los diferentes tipos de plumas con su lugar de inserción: Rémiges primarias, Tectrices, Rectrices, Rémiges secundarias",
+  respuesta: "Rémiges primarias: borde caudal del ala, mano (carpometacarpo y falanges); Tectrices: cubren la base de las remeras; Rectrices: pigostilo, cola; Rémiges secundarias: borde caudal del ala, antebrazo (cúbito)"
+},
+
+/* 4 */
+{
+  tipo: "test",
+  pregunta: "Los derivados córneos de la epidermis son:",
+  opciones: [
+    "La ranfoteca, podoteca y garras",
+    "Los apéndices carnosos como crestas y babillas",
+    "Las garras, espolón y podoteca",
+    "Los apéndices carnosos como rictus y moco de pavo"
+  ],
+  correcta: 0
+},
+
+/* 5 */
+{
+  tipo: "test",
+  pregunta: "Señala la frase correcta referente al hueso cuadrado:",
+  opciones: [
+    "Se encuentra interpuesto entre la región ocular del cráneo y la mandíbula",
+    "Se encuentra en la región craneal, permitiendo girar el cuello 180 grados",
+    "Se encuentra interpuesto entre la región ótica de la base del cráneo y el extremo caudal del maxilar",
+    "Gracias a su giro se mueve la valva inferior hacia arriba",
+    "Se encuentra interpuesto entre la región ótica de la base del cráneo y el extremo caudal de la mandíbula"
+  ],
+  correcta: 4
+},
+
+/* 6 */
+{
+  tipo: "test",
+  pregunta: "La glándula tiroides, ¿entre qué vasos se encuentra?",
+  opciones: [
+    "Entre la yugular interna y la yugular externa",
+    "Entre la arteria subclavia y la yugular interna",
+    "Entre la yugular interna y la carótida interna",
+    "Entre la arteria subclavia y la carótida común",
+    "Entre la arteria subclavia y la yugular externa"
+  ],
+  correcta: 3
+},
+
+/* 7 */
+{
+  tipo: "rellenar",
+  pregunta: "¿Cómo se llama el músculo cuyo tendón de inserción atraviesa el canal trióseo en el cinturón torácico?",
+  respuesta: "Tendón del músculo supracoracoideo"
+},
+
+/* 8 */
+{
+  tipo: "test",
+  pregunta: "El hueso Notario en aves, está formado por la fusión de:",
+  opciones: [
+    "Las v. torácicas entre 7-9, salvo las dos últimas",
+    "Las v. torácicas entre 7-9, salvo la primera y las dos últimas",
+    "Las v. torácicas entre 7-9, salvo las dos primeras",
+    "Las v. torácicas entre 7-9, salvo las dos primeras y las dos últimas",
+    "Las v. torácicas entre 7-9, salvo las dos primeras y la última"
+  ],
+  correcta: 1
+},
+
+/* 9 */
+{
+  tipo: "rellenar",
+  pregunta: "Relaciones cada tipo de saco aéreo con el órgano con el que se relaciona: Saco abdominal, Sacos torácicos caudales, Sacos cervicales, Sacos torácicos craneales",
+  respuesta: "Saco abdominal: pulmones; Sacos torácicos caudales: ninguna víscera; Sacos cervicales: orofaringe; Sacos torácicos craneales: esófago abdominal"
+},
+
+/* 10 */
+{
+  tipo: "test",
+  pregunta: "¿En qué vena se encuentra la válvula porta renal?",
+  opciones: [
+    "Vena ilíaca externa derecha",
+    "Vena ilíaca común derecha",
+    "Vena ilíaca común izquierda",
+    "Vena ilíaca externa izquierda"
+  ],
+  correcta: 2
+},
+
+/* 11 */
+{
+  tipo: "test",
+  pregunta: "Las aves carecen del linfonódulos, pero tienen:",
+  opciones: [
+    "Órganos linfoides primarios como el timo y secundarios como el bazo",
+    "Órganos linfoides primarios como la bolsa de Fabricio y secundarios como el timo",
+    "Órganos linfoides primarios como la bolsa de Fabricio y secundarios como el bazo",
+    "Órganos linfoides primarios como el bazo y secundarios como el timo"
+  ],
+  correcta: 2
+},
+
+/* 12 */
+{
+  tipo: "test",
+  pregunta: "El hueso sinsacro en las aves está formado por la fusión de las vértebras:",
+  opciones: [
+    "Sacras y las dos primeras coccígeas",
+    "Lumbares, sacras y las dos primeras coccígeas",
+    "Lumbares, sacras y todas las coccígeas",
+    "Lumbares, sacras y sólo la primera coccígea"
+  ],
+  correcta: 1
+},
+
+/* 13 */
+{
+  tipo: "rellenar",
+  pregunta: "Relaciona cada estructura del aparato respiratorio con su localización: Glotis, Glándula de la sal, Opérculo, Coanas",
+  respuesta: "Glotis: suelo de la faringe, eminencia laríngea; Glándula de la sal: cavidad nasal, supraorbital; Opérculo: narinas; Coanas: cavidad nasal, orofaringe"
+},
+
+/* 14 */
+{
+  tipo: "test",
+  pregunta: "Del tronco de la aorta en aves, ¿qué vaso sanguíneo no sale directamente de él?",
+  opciones: [
+    "Tronco braquiocefálico derecho",
+    "Arteria subclavia",
+    "Tronco braquiocefálico izquierdo",
+    "Arteria aorta"
+  ],
+  correcta: 1
+},
+
+/* 15 */
+{
+  tipo: "rellenar",
+  pregunta: "Relaciona la parte del oviducto con la secreción que producen sus glándulas: Útero, Magnum, Infundíbulo, Istmo",
+  respuesta: "Útero: cutícula externa; Magnum: albumen denso; Infundíbulo: chalazas; Istmo: membranas testáceas"
+},
+
+/* 16 */
+{
+  tipo: "test",
+  pregunta: "¿En qué vena se encuentra la válvula porta renal?",
+  opciones: [
+    "Vena porta renal craneal",
+    "Vena porta renal caudal",
+    "Vena ilíaca común",
+    "Vena ilíaca externa"
+  ],
+  correcta: 2
+},
+
+/* 17 */
+{
+  tipo: "test",
+  pregunta: "¿Cuál de las siguientes porciones de la ranfoteca no pertenece a ella?",
+  opciones: [
+    "Uña",
+    "Lengua",
+    "Tomios",
+    "Gonios"
+  ],
+  correcta: 1
+},
+
+/* 18 */
+{
+  tipo: "test",
+  pregunta: "¿Dónde desemboca la porción rectal de las aves?",
+  opciones: [
+    "Urodeo",
+    "Coprodeo",
+    "Repliegue urogenital",
+    "Proctodeo"
+  ],
+  correcta: 1
+},
+
+/* 19 */
+{
+  tipo: "test",
+  pregunta: "El hueso notario en las aves está formado por la fusión de:",
+  opciones: [
+    "Las v. torácicas entre 7-9º, salvo las dos primeras y la última",
+    "Las v. torácicas entre 7-9º, salvo la primera y las dos últimas",
+    "Las v. torácicas entre 7-9º, salvo las dos últimas",
+    "Las v. torácicas entre 7-9º, salvo las dos primeras"
+  ],
+  correcta: 1
+},
+
+/* 20 */
+{
+  tipo: "test",
+  pregunta: "En su trayecto por el pulmón, el aire llega a los bronquios principales y se continúa con:",
+  opciones: [
+    "Parabronquios",
+    "Bronquios secundarios",
+    "Bronquiolos secundarios",
+    "Mesobronquios"
+  ],
+  correcta: 1
+},
+
+/* 21 */
+{
+  tipo: "rellenar",
+  pregunta: "Relacione las distintas cavidades: Suelo de la orofaringe, Urodeo, Buche, Proctodeo",
+  respuesta: "Suelo de la orofaringe: eminencia laríngea; Urodeo: conductos deferentes; Buche: glándulas ingluviales; Proctodeo: bolsa de Fabricio"
+},
+
+/* 22 */
+{
+  tipo: "test",
+  pregunta: "El hueso cuadrado se encuentra interpuesto:",
+  opciones: [
+    "En la región ocular del cráneo y la mandíbula",
+    "En la región ótica de la base del cráneo y el extremo caudal del maxilar",
+    "Gracias a su giro se mueve la valva inferior hacia arriba",
+    "En la región ótica de la base del cráneo y el extremo caudal de la mandíbula"
+  ],
+  correcta: 3
+},
+
+/* 23 */
+{
+  tipo: "test",
+  pregunta: "El riñón de las aves no se relaciona cranealmente con:",
+  opciones: [
+    "Gónadas",
+    "Glándulas adrenales",
+    "Pulmones",
+    "Corazón"
+  ],
+  correcta: 3
+},
+
+/* 24 */
+{
+  tipo: "rellenar",
+  pregunta: "Indique cuáles de las cavidades celómicas son incorrectas",
+  respuesta: "Incorrectas: una cavidad intestinal, dos cavidades pleurales; Correctas: una cavidad pericárdica, una cavidad hepática craneal"
+},
+
+/* 25 */
+{
+  tipo: "test",
+  pregunta: "La laringe de las aves no tiene el cartílago:",
+  opciones: [
+    "Cricotiroideo",
+    "Aritenoideo",
+    "Tiroideo",
+    "Procricoideo"
+  ],
+  correcta: 2
+},
+
+/* 26 */
+{
+  tipo: "test",
+  pregunta: "Indique las estructuras que se localizan en el suelo de la orofaringe:",
+  opciones: [
+    "Glotis y coanas",
+    "Coanas y eminencia laríngea",
+    "Glotis y eminencia laríngea",
+    "Coanas y papilas faríngeas"
+  ],
+  correcta: 2
+},
+
+/* 27 */
+{
+  tipo: "rellenar",
+  pregunta: "Indique cuáles son las respuestas verdaderas sobre las plumas",
+  respuesta: "Verdaderas: plumas tectrices son plumas de cubierta que se extienden por todo el cuerpo y cubren la base de las remeras, plumas remeras secundarias facilitan la elevación y mantenimiento en el aire; Falsas: plumas remeras terciarias NO proporcionan propulsión y velocidad (son las primarias), plumas remeras primarias proporcionan propulsión y velocidad no solo elevación"
+},
+
+/* 28 */
+{
+  tipo: "rellenar",
+  pregunta: "¿Qué estructura es una reminiscencia de la notocorda?",
+  respuesta: "Pigostilo"
+},
+
+/* 29 */
+{
+  tipo: "rellenar",
+  pregunta: "Indique cuáles son las respuestas verdaderas sobre el sistema respiratorio de aves",
+  respuesta: "Verdaderas: diafragma de mamíferos sustituido por membrana unida a costillas que se contrae en espiración, cavidad celómica se divide en 8 compartimentos; Falsas: sacos aéreos NO producen intercambio gaseoso, tráquea formada por anillos cartilaginosos completos no incompletos"
+},
+
+/* 30 */
+{
+  tipo: "rellenar",
+  pregunta: "Indique cuáles son las respuestas verdaderas sobre órganos de los sentidos",
+  respuesta: "Verdaderas: receptores olfativos se encuentran en concha nasal media, corpúsculos de Herbst forman parte del órgano del tacto, papilas o yemas gustativas se sitúan próximas a glándulas salivares; Falsa: corpúsculos de Grandy NO forman parte de órganos del gusto"
+},
+
+/* 31 */
+{
+  tipo: "rellenar",
+  pregunta: "Indique cuáles son las respuestas verdaderas sobre el oviducto",
+  respuesta: "Verdaderas: en el Istmo se secreta precursor de membranas testáceas, porción de Infundíbulo contribuye a formación de chalazas; Falsas: en Magnum NO se produce fecundación (es en Infundíbulo), porción final del Útero secreta cutícula externa no albumen fluido"
+},
+
+/* 32 */
+{
+  tipo: "rellenar",
+  pregunta: "Indique cuáles son las respuestas verdaderas sobre el sistema circulatorio",
+  respuesta: "Verdaderas: aves poseen una vena cava craneal procedente del colector venoso y vena yugular y dos venas cavas caudales, de la arteria aorta descendente sale rama mesentérica caudal, vena yugular derecha es más grande que la izquierda; Falsa: arteria carótida común NO se continúa con tronco pectoral"
+},
+
+/* 33 */
+{
+  tipo: "rellenar",
+  pregunta: "Indique cuáles son las respuestas verdaderas sobre drenaje venoso del riñón",
+  respuesta: "Verdaderas: drenaje venoso del riñón mediante venas renales craneales tributaria de vena ilíaca común, grandes colectores venosos del miembro pelviano son vena femoral y vena ilíaca, vena yugular derecha es más grande que la izquierda; Falsa: válvula porta renal NO se localiza en vena ilíaca externa sino en vena ilíaca común"
+},
+
+/* 34 */
+{
+  tipo: "rellenar",
+  pregunta: "Indique cuáles son las respuestas verdaderas sobre testículos y orina",
+  respuesta: "Verdaderas: testículos no poseen túnica albugínea pero sí resto de envolturas y red testicular establece conexión con epidídimo, parénquima de testículos se divide en lobulillos sin mediastino testicular, orina con elevado contenido de uratos pasa por uréteres al urodeo; Falsa: conducto deferente comunica con urodeo NO coprodeo"
+},
+
+/* 35 */
+{
+  tipo: "rellenar",
+  pregunta: "Indica cuáles son las respuestas verdaderas sobre escápula y cinturón torácico",
+  respuesta: "Verdaderas: extremo caudal de escápula llega casi hasta el ilion, cavidad glenoidea está formada por la escápula y el coracoides; Falsas: cinturón torácico formado por escápula, coracoides y fúrcula (no solo escápula y fúrcula), cavidad glenoidea NO incluye la clavícula"
 }
 
+  
   
 ];
 
