@@ -469,7 +469,7 @@ const preguntas = [
   tipo: "rellenar",
   pregunta: "Escribe el origen de los siguientes músculos del miembro torácico (Gran dorsal; Supraespinoso; Bíceps braquial; Flexor radial del carpo)",
   respuesta:
-    "Gran dorsal: fascia toracolumbar; Supraespinoso: fosa supraespinosa; Bíceps braquial: tubérculo supraglenoideo; Flexor radial del carpo: epicóndilo medial"
+    "Gran dorsal: fascia toracolumbar; Supraespinoso: fosa supraespinosa; Bíceps braquial: tubérculo supraglenoideo; Flexor radial del carpo: en la cresta del epicóndilo lateral del humero"
 },
 
 /* 32 */
