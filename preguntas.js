@@ -137,7 +137,7 @@ const preguntas = [
 
 /* 13 */
 {
-  tipo: "test",
+  tipo: "rellenar",
   pregunta: "La glándula uropigial se localiza (dorsalmente al pigóstilo, bajo la piel dorsal al pigóstilo, ventralmente al pigóstilo, bajo la piel ventral al pigóstilo)",
   respuesta: "Dorsalmente al pigóstilo, es bilobulada, Bajo la piel, dorsal al pigóstilo, al final del raquis"
 },
@@ -158,7 +158,7 @@ const preguntas = [
 
 /* 16 */
 {
-  tipo: "test",
+  tipo: "rellenar",
   pregunta: "Los derivados córneos de la epidermis son (la ranfoteca, podoteca y garras; los apéndices carnosos como crestas y babillas; las garras, espolón y podoteca; los apéndices carnosos como rictus y moco de pavo)",
   respuesta: "La ranfoteca, podoteca y garras y Las garras, espolón y podoteca"
 },
@@ -207,7 +207,7 @@ const preguntas = [
 
 /* 21 */
 {
-  tipo: "test",
+  tipo: "rellenar",
   pregunta: "Las aves carecen del linfonódulos, pero tienen (organos linfoides primarios y secundarios, órganos linfoides primarios como la bolsa de Fabricio y secundarios como el timo, órganos linfoides primarios como el timo y secundarios como el bazo, órganos linfoides primarios como la bolsa de Fabricio y secundarios como el bazo, órganos linfoides primarios como el bazo y secundarios como el timo)",
   respuesta: "Órganos linfoides primarios como el timo y secundarios como el bazo y órganos linfoides primarios como la bolsa de Fabricio y secundarios como el bazo"
 },
