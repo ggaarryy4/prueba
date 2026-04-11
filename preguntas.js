@@ -493,7 +493,7 @@ const preguntas = [
   tipo: "rellenar",
   pregunta: "Marca las sentencias verdaderas ( Los carnívoros tienen músculo subclavio. o El músculo tríceps braquial tiene cuatro cabezas en carnívoros y todas ellas se insertan en el olécranon del cúbito. .o Los músculos que se encuentran en la espalda actúan sobre la articulación del hombro, y tienen su origen en el húmero y se insertan en el radio. )",
   respuesta:
-    "1V 2V 3F"
+    "1F 2V 3F"
 },
 
 /* 35 */
