@@ -509,7 +509,7 @@ const preguntas = [
   tipo: "rellenar",
   pregunta: "Clasifica las articulaciones según número de huesos, morfología y movimiento (Metacarpofalangiana; Codo; Radiocubital; Escápulo-humeral; Carpo)",
   respuesta:
-    "Metacarpofalángica: 2 huesos, condílea, flexión/extensión y ligera abducción/aducción; Codo: 3 huesos, troclear, flexión/extensión; Radio-cubital (carnívoros): 2 huesos, trocoide, pronación/supinación; Escápulo-humeral: 2 huesos, esferoidea, multiaxial; Carpo (carnívoros): 7-8 huesos, plana/elipsoidea, flexión/extensión y ligera desviación lateral."
+    "Metacarpofalángica: 3 huesos. ginglimo en eq, troclear en car. compuesta sinovial. flexion/extension ;  Codo: 3 huesos, sinovial compuesta en bisagra, flexión/extensión; Radio-cubital (carnívoros): 2 huesos, sinovial simple trocoide. casi sin movimientos, leve pronacion; Escápulo-humeral: 2 huesos, sinovial simple y esferoidal, multiaxial; Carpo (carnívoros): 7-8 huesos, compuesta sinovial elipsoidal(car) y troclear(ungulados). flexion/extension y rotacion abduccion y aduccion(car)"
 },
 
 /* 37 */
@@ -525,7 +525,7 @@ const preguntas = [
   tipo: "rellenar",
   pregunta: "Empareja cada sentencia con un músculo ( Un músculo que sea flexor de la articulación del carpo y que esté inervado por el nervio cubital: o Un músculo fijador de la escápula e inervado por el nervio accesorio: o Un músculo que se encuentra en la parte craneal del brazo y que está inervado por el mismo nervio que inerva al músculo coracobraquial: o Un músculo que sea flexor de la articulación del carpo y que esté inervado por el nervio radial: )",
   respuesta:
-    "Flexor del carpo, nervio cubital: flexor profundo (porción cubital); fijador de escápula, nervio accesorio: trapecio; craneal del brazo, mismo nervio que coracobraquial: bíceps braquial; flexor del carpo, nervio radial: no existe (radial solo extiende)."
+    "Flexor del carpo, nervio cubital: flexor profundo (porción cubital); fijador de escápula, nervio accesorio: trapecio; craneal del brazo, mismo nervio que coracobraquial: bíceps braquial; flexor del carpo, nervio radial: extensor carpocubital."
 },
 
 /* 0 */
