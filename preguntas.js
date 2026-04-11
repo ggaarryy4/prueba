@@ -1193,7 +1193,7 @@ const preguntas = [
 
   //mas aves
 
-  // PARCIAL AVES
+ // PARCIAL AVES
 
 /* 1 */
 {
@@ -1287,7 +1287,7 @@ const preguntas = [
 /* 9 */
 {
   tipo: "rellenar",
-  pregunta: "Relaciones cada tipo de saco aéreo con el órgano con el que se relaciona: Saco abdominal, Sacos torácicos caudales, Sacos cervicales, Sacos torácicos craneales",
+  pregunta: "Relaciones cada tipo de saco aéreo con el órgano con el que se relaciona: Saco abdominal, Sacos torácicos caudales, Sacos cervicales, Sacos torácicos craneales. Opciones: Orofaringe, Cloaca, Pulmones, Esófago abdominal, Ninguna víscera, Buche",
   respuesta: "Saco abdominal: pulmones; Sacos torácicos caudales: ninguna víscera; Sacos cervicales: orofaringe; Sacos torácicos craneales: esófago abdominal"
 },
 
@@ -1353,7 +1353,7 @@ const preguntas = [
 /* 15 */
 {
   tipo: "rellenar",
-  pregunta: "Relaciona la parte del oviducto con la secreción que producen sus glándulas: Útero, Magnum, Infundíbulo, Istmo",
+  pregunta: "Relaciona la parte del oviducto con la secreción que producen sus glándulas: Útero, Magnum, Infundíbulo, Istmo. Opciones: cutícula externa, membranas testáceas, estigma, folículo, albumen denso, chalazas",
   respuesta: "Útero: cutícula externa; Magnum: albumen denso; Infundíbulo: chalazas; Istmo: membranas testáceas"
 },
 
@@ -1425,7 +1425,7 @@ const preguntas = [
 /* 21 */
 {
   tipo: "rellenar",
-  pregunta: "Relacione las distintas cavidades: Suelo de la orofaringe, Urodeo, Buche, Proctodeo",
+  pregunta: "Relacione las distintas cavidades: Suelo de la orofaringe, Urodeo, Buche, Proctodeo. Opciones: glándulas ingluviales, eminencia laríngea, recto, coanas, conductos deferentes, bolsa de Fabricio",
   respuesta: "Suelo de la orofaringe: eminencia laríngea; Urodeo: conductos deferentes; Buche: glándulas ingluviales; Proctodeo: bolsa de Fabricio"
 },
 
@@ -1458,8 +1458,8 @@ const preguntas = [
 /* 24 */
 {
   tipo: "rellenar",
-  pregunta: "Indique cuáles de las cavidades celómicas son incorrectas",
-  respuesta: "Incorrectas: una cavidad intestinal, dos cavidades pleurales; Correctas: una cavidad pericárdica, una cavidad hepática craneal"
+  pregunta: "Indique cuáles de las cavidades celómicas son incorrectas: - Una cavidad pericárdica. - Una cavidad intestinal. - Una cavidad hepática craneal. - Dos cavidades pleurales.",
+  respuesta: "Una cavidad intestinal; Dos cavidades pleurales"
 },
 
 /* 25 */
@@ -1491,8 +1491,8 @@ const preguntas = [
 /* 27 */
 {
   tipo: "rellenar",
-  pregunta: "Indique cuáles son las respuestas verdaderas sobre las plumas",
-  respuesta: "Verdaderas: plumas tectrices son plumas de cubierta que se extienden por todo el cuerpo y cubren la base de las remeras, plumas remeras secundarias facilitan la elevación y mantenimiento en el aire; Falsas: plumas remeras terciarias NO proporcionan propulsión y velocidad (son las primarias), plumas remeras primarias proporcionan propulsión y velocidad no solo elevación"
+  pregunta: "Indique cuáles son las respuestas verdaderas: - Las plumas tectrices son plumas de cubierta se extienden por todo el cuerpo y cubren la base de las remeras. - Las plumas remeras secundarias facilitan la elevación y mantenimiento en el aire. - Las plumas remeras terciarias proporcionan propulsión y velocidad en el vuelo. - Las plumas remeras primarias facilitan la elevación y mantenimiento en el aire.",
+  respuesta: "Las plumas tectrices son plumas de cubierta se extienden por todo el cuerpo y cubren la base de las remeras; Las plumas remeras secundarias facilitan la elevación y mantenimiento en el aire"
 },
 
 /* 28 */
@@ -1505,53 +1505,52 @@ const preguntas = [
 /* 29 */
 {
   tipo: "rellenar",
-  pregunta: "Indique cuáles son las respuestas verdaderas sobre el sistema respiratorio de aves",
-  respuesta: "Verdaderas: diafragma de mamíferos sustituido por membrana unida a costillas que se contrae en espiración, cavidad celómica se divide en 8 compartimentos; Falsas: sacos aéreos NO producen intercambio gaseoso, tráquea formada por anillos cartilaginosos completos no incompletos"
+  pregunta: "Indique cuáles son las respuestas verdaderas: - El diafragma de los mamíferos en las aves es sustituido por una delgada membrana unida a las costillas que se contrae en el momento de la espiración. - Los sacos aéreos ventilan a modo de fuelles y en ellos se produce el intercambio gaseoso. - La cavidad celómica se divide en 8 compartimentos. - La tráquea está formada por anillos cartilaginosos incompletos unidos por músculos y ligamentos interanulares.",
+  respuesta: "El diafragma de los mamíferos en las aves es sustituido por una delgada membrana unida a las costillas que se contrae en el momento de la espiración; La cavidad celómica se divide en 8 compartimentos"
 },
 
 /* 30 */
 {
   tipo: "rellenar",
-  pregunta: "Indique cuáles son las respuestas verdaderas sobre órganos de los sentidos",
-  respuesta: "Verdaderas: receptores olfativos se encuentran en concha nasal media, corpúsculos de Herbst forman parte del órgano del tacto, papilas o yemas gustativas se sitúan próximas a glándulas salivares; Falsa: corpúsculos de Grandy NO forman parte de órganos del gusto"
+  pregunta: "Indique cuáles son las respuestas verdaderas: - Los receptores olfativos se encuentran en la concha nasal media. - Los corpúsculos de Grandy forman parte de los órganos del gusto. - Los corpúsculos de Herbst forman parte del órgano del tacto. - Las papilas o yemas gustativas se sitúan próximas a las glándulas salivares.",
+  respuesta: "Los receptores olfativos se encuentran en la concha nasal media; Los corpúsculos de Herbst forman parte del órgano del tacto; Las papilas o yemas gustativas se sitúan próximas a las glándulas salivares"
 },
 
 /* 31 */
 {
   tipo: "rellenar",
-  pregunta: "Indique cuáles son las respuestas verdaderas sobre el oviducto",
-  respuesta: "Verdaderas: en el Istmo se secreta precursor de membranas testáceas, porción de Infundíbulo contribuye a formación de chalazas; Falsas: en Magnum NO se produce fecundación (es en Infundíbulo), porción final del Útero secreta cutícula externa no albumen fluido"
+  pregunta: "Indique cuáles son las respuestas verdaderas: - En la porción del oviducto llamado Istmo se secreta el precursor de las membranas testáceas. - En la porción del oviducto llamado Magnum se produce la fecundación, las glándulas de su mucosa contribuyen a la formación inicial de las chalazas. - La porción final del Útero secreta albumen fluido y desemboca en la parte lateral izquierda del urodeo. - La porción de Infundíbulo contribuye a la formación de las chalazas.",
+  respuesta: "En la porción del oviducto llamado Istmo se secreta el precursor de las membranas testáceas; La porción de Infundíbulo contribuye a la formación de las chalazas"
 },
 
 /* 32 */
 {
   tipo: "rellenar",
-  pregunta: "Indique cuáles son las respuestas verdaderas sobre el sistema circulatorio",
-  respuesta: "Verdaderas: aves poseen una vena cava craneal procedente del colector venoso y vena yugular y dos venas cavas caudales, de la arteria aorta descendente sale rama mesentérica caudal, vena yugular derecha es más grande que la izquierda; Falsa: arteria carótida común NO se continúa con tronco pectoral"
+  pregunta: "Indique cuáles son las respuestas verdaderas: - Las aves poseen una vena cava craneal procedente del colector venoso, vena yugular y dos venas cavas caudales. - La arteria carótida común se continua con el tronco pectoral. - En cuanto a la vascularización arterial: de la arteria aorta descendente sale la rama mesentérica caudal. - A veces la vena yugular derecha siempre es más grande que la izquierda, pudiéndose ver bajo la piel.",
+  respuesta: "Las aves poseen una vena cava craneal procedente del colector venoso, vena yugular y dos venas cavas caudales; En cuanto a la vascularización arterial: de la arteria aorta descendente sale la rama mesentérica caudal; A veces la vena yugular derecha siempre es más grande que la izquierda, pudiéndose ver bajo la piel"
 },
 
 /* 33 */
 {
   tipo: "rellenar",
-  pregunta: "Indique cuáles son las respuestas verdaderas sobre drenaje venoso del riñón",
-  respuesta: "Verdaderas: drenaje venoso del riñón mediante venas renales craneales tributaria de vena ilíaca común, grandes colectores venosos del miembro pelviano son vena femoral y vena ilíaca, vena yugular derecha es más grande que la izquierda; Falsa: válvula porta renal NO se localiza en vena ilíaca externa sino en vena ilíaca común"
+  pregunta: "Indique cuáles son las respuestas verdaderas: - El drenaje venoso del riñón se realiza mediante las venas renales craneales tributaria de la vena iliaca común. - La válvula porta renal se localiza en la vena iliaca externa. - Los grandes colectores venosos del miembro pelviano en las aves son la vena femoral y la vena iliaca. - La vena yugular derecha es más grande que la izquierda.",
+  respuesta: "El drenaje venoso del riñón se realiza mediante las venas renales craneales tributaria de la vena iliaca común; Los grandes colectores venosos del miembro pelviano en las aves son la vena femoral y la vena iliaca; La vena yugular derecha es más grande que la izquierda"
 },
 
 /* 34 */
 {
   tipo: "rellenar",
-  pregunta: "Indique cuáles son las respuestas verdaderas sobre testículos y orina",
-  respuesta: "Verdaderas: testículos no poseen túnica albugínea pero sí resto de envolturas y red testicular establece conexión con epidídimo, parénquima de testículos se divide en lobulillos sin mediastino testicular, orina con elevado contenido de uratos pasa por uréteres al urodeo; Falsa: conducto deferente comunica con urodeo NO coprodeo"
+  pregunta: "Indique cuáles son las respuestas verdaderas: - Los testículos no poseen túnica albugínea, pero si el resto de las envolturas, la red testicular establece conexión con el epidídimo. - El conducto deferente comunica con el coprodeo de la cloaca, y en el se produce la maduración de los espermatozoides. - El parénquima de los testículos se divide en lobulillos y no tiene mediastino testicular. - La orina tiene un elevado contenido de uratos, pasa por los uréteres y llega al urodeo.",
+  respuesta: "Los testículos no poseen túnica albugínea, pero si el resto de las envolturas, la red testicular establece conexión con el epidídimo; El parénquima de los testículos se divide en lobulillos y no tiene mediastino testicular; La orina tiene un elevado contenido de uratos, pasa por los uréteres y llega al urodeo"
 },
 
 /* 35 */
 {
   tipo: "rellenar",
-  pregunta: "Indica cuáles son las respuestas verdaderas sobre escápula y cinturón torácico",
-  respuesta: "Verdaderas: extremo caudal de escápula llega casi hasta el ilion, cavidad glenoidea está formada por la escápula y el coracoides; Falsas: cinturón torácico formado por escápula, coracoides y fúrcula (no solo escápula y fúrcula), cavidad glenoidea NO incluye la clavícula"
+  pregunta: "Indica cuáles son las respuestas verdaderas: - El extremo caudal de la escápula llega casi hasta el ilion. - El cinturón torácico lo forman la escapula y la fúrcula derecha e izquierda. - La cavidad glenoidea está formada por la escapula, el coracoides y la clavícula. - La cavidad glenoidea está formada por la escapula y el coracoides.",
+  respuesta: "El extremo caudal de la escápula llega casi hasta el ilion; La cavidad glenoidea está formada por la escapula y el coracoides"
 }
 
-  
   
 ];
 
