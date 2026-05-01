@@ -287,9 +287,77 @@ const preguntas = [
     tipo: "rellenar",
     pregunta: "¿Qué inserción presentan los siguientes músculos? Rotadores largos, Recto dorsal mayor de la cabeza, Escaleno medio, Transverso del tórax",
     respuesta: "Rotadores largos: apófisis espinosa de la vértebra craneal; Recto dorsal mayor de la cabeza: protuberancia occipital externa y cresta nucal; Escaleno medio: de CVI-CVII hasta la 1a costilla; Transverso del tórax: articulación costocondral de costillas esternales"
+  },
+
+  /* 1 */
+  {
+    tipo: "rellenar",
+    pregunta: "¿Qué músculo o músculos de los enumerados están relacionados con la espiración? - Iliocostal. - Intercostales externos.",
+    respuesta: "Iliocostal"
+  },
+
+  /* 4 */
+  {
+    tipo: "rellenar",
+    pregunta: "Indique la función de los músculos marcados con los números: Nº 3, Nº 28, Nº 8, Nº 9",
+    respuesta: "Nº 3: elevador de la cabeza y cuello (semiespinal); Nº 28: lateral/extensor cabeza y cuello (longísimo); Nº 8: flexor lateral del raquis (intertransversos); Nº 9: flexor de la cabeza y cuello (largo del cuello)"
+  },
+
+  /* 5 */
+  {
+    tipo: "rellenar",
+    pregunta: "¿Qué afirmaciones sobre el diafragma NO es/son correctas? - Por el hiato esofágico pasan el esófago y los troncos vagales. - Su porción más convexa es el centro tendinoso. - La porción costal se origina en la cara interna de las últimas costillas. - Es el principal músculo espirador. - Su superficie abdominal está cubierta por fascia transversa y peritoneo. - La porción lumbar se llama pilares del diafragma.",
+    respuesta: "Su porción más convexa es el centro tendinoso; Es el principal músculo espirador"
+  },
+
+  /* 11 */
+  {
+    tipo: "rellenar",
+    pregunta: "¿Qué afirmación o afirmaciones de los músculos epiaxiales es/son correctas? - El espinal semiespinal es exclusivo de carnívoros. - Los multífidos van desde el sacro hasta C2 o C3. - El iliocostal está inervado por ramos dorsales torácicos y lumbares. - El escaleno ventral se inserta en la primera costilla. - El largo del cuello flexiona el cuello.",
+    respuesta: "Los multífidos van desde el sacro hasta C2 o C3; El iliocostal está inervado por ramos dorsales torácicos y lumbares; El escaleno ventral se inserta en la primera costilla; El largo del cuello flexiona el cuello"
+  },
+
+  /* 12 */
+  {
+    tipo: "rellenar",
+    pregunta: "Escribe el origen de los siguientes músculos: Coxígeo, Largo del cuello, Elevadores de las costillas, Escaleno dorsal",
+    respuesta: "Coxígeo: espina isquiática; Largo del cuello porción cervical: apófisis transversas de C6-C3, porción torácica: parte ventral de cuerpos de primeras torácicas; Elevadores de las costillas: apófisis transversas torácicas; Escaleno dorsal: apófisis transversas C4-C6"
+  },
+
+  /* 13 */
+  {
+    tipo: "rellenar",
+    pregunta: "Los músculos transversoespinales son:",
+    respuesta: "Semiespinales, rotadores y multífidos"
+  },
+
+  /* 14 */
+  {
+    tipo: "rellenar",
+    pregunta: "¿Qué estructura está formada por los tendones de los mm. rectos del abdomen?",
+    respuesta: "Vaina del recto del abdomen"
+  },
+
+  /* 18 */
+  {
+    tipo: "rellenar",
+    pregunta: "De estos músculos, ¿cuáles son inspiradores? - Serrato ventral torácico y transverso del tórax. - Intercostales externos y subcostales. - Serrato dorsal caudal e iliocostal. - Serrato dorsal craneal y recto del tórax.",
+    respuesta: "Serrato ventral torácico; Intercostales externos; Serrato dorsal craneal; Recto del tórax"
+  },
+
+  /* 19 */
+  {
+    tipo: "rellenar",
+    pregunta: "¿Qué medios de unión aparecen en la articulación de los cuerpos vertebrales?",
+    respuesta: "Discos intervertebrales: anillo fibroso y núcleo pulposo"
+  },
+
+  /* 20 */
+  {
+    tipo: "rellenar",
+    pregunta: "¿Qué inserción presentan los siguientes músculos? Rotadores largos, Recto dorsal mayor de la cabeza, Escaleno medio, Transverso del tórax",
+    respuesta: "Rotadores largos: apófisis espinosa vértebra craneal; Recto dorsal mayor de la cabeza: protuberancia occipital externa y cresta nucal; Escaleno medio: primera costilla; Transverso del tórax: articulaciones costocondrales de las costillas esternales (verdaderas)"
   }
-
-
 
 ];
 
